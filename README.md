@@ -1,4 +1,4 @@
-# Logistique-Regression
+# Logistic-Regression
 
 Machine Learning EE-690  
 Course Professor: Leon Jololian, Ph.D.  
